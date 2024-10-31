@@ -1,1 +1,0 @@
-Pasta onde o arquivo de teste "test_data_unit.csv" irá ficar (é obrigatório que este arquivo esteja preenchido e existente, para que os testes unitários funcionem corretamente).
