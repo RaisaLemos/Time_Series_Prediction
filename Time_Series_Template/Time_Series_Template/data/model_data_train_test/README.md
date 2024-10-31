@@ -1,0 +1,1 @@
+Pasta onde os arquivos de treino e teste do modelo irão ficar salvos.
